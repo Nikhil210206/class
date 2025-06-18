@@ -1,3 +1,3 @@
 # Class
-Building my own version of SRM Academia for easy usability 
+Building my own version of SRM Academia for easy usability.
 !
