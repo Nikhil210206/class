@@ -1,3 +1,3 @@
 # Class
-Building my own version of SRM Academia 
+Building my own version of SRM Academia
 
